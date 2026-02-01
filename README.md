@@ -2,7 +2,7 @@
 
 ## 📌 Description
 
-Application React Native/Expo utilisant l'API OpenAI pour offrir un tuteur pédagogique interactif.
+Application React Native/Expo utilisant l'API Gemini pour offrir un tuteur pédagogique interactif.
 
 ## 🚀 Stack technique
 
@@ -14,7 +14,7 @@ Application React Native/Expo utilisant l'API OpenAI pour offrir un tuteur péda
 
 ## ⚙️ Installation
 
-1. Clone le repo : `git clone [ton-repo]`
+1. Clone le repo : `git clone [https://github.com/HeryTal/EduAI-Expo]`
 2. Installe les dépendances : `npm install`
 3. Ajoute ta clé Gemini dans `services/gemini.ts`
 4. Lance l'app : `npm start`
